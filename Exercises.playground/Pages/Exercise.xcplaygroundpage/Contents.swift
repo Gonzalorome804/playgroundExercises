@@ -17,4 +17,8 @@ default:
 }
 }
 
+calcDistance(distance: 0)
+calcDistance(distance: 3)
+calcDistance(distance: 7)
+calcDistance(distance: 17)
 calcDistance(distance: 41)

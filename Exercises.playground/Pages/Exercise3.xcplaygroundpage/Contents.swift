@@ -11,9 +11,7 @@ func printIfPositiveInteger(number: String) {
 }
 
 printIfPositiveInteger(number: "abc")
-
 printIfPositiveInteger(number: "-10")
-
 printIfPositiveInteger(number: "10")
 
 //: [Next](@next)
